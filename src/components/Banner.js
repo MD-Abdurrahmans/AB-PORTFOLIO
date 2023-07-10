@@ -34,7 +34,7 @@ const Banner = () => {
 
           <motion.h1
             variants={fadeIn('up', 0.3)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }}
-            className='text-[35px]  font-bold  leading-[0.8]  lag:text-[110px]'>Abdurrahman Raaz</motion.h1>
+            className=' sm:text-[35px]  font-bold  leading-[0.8]  lg:text-[60px]'>Abdurrahman Raaz</motion.h1>
 
           <motion.div 
             variants={fadeIn('up', 0.4)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }}
