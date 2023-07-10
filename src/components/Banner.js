@@ -22,7 +22,7 @@ import { Link } from 'react-scroll';
 
 
 const Banner = () => {
-  return <section className='min-h-[85vh] lg:min-h-[78vh]  bg-img flex items-center' id='home'>
+  return <section className='min-h-[85vh] lg:min-h-[78vh]  bg-img bg-img-lg flex items-center' id='home'>
 
     <div className='container  mx-auto ' >
 
@@ -107,7 +107,7 @@ const Banner = () => {
 
         <motion.div 
           variants={fadeIn('top', 0.5)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }}
-        className='hidden lg:flex flex-1 max-w-[320px] max-h-[650px] pb-0 mb-0 lg:max-w-[482px] mx-auto
+        className='hidden lg:flex flex-1 max-w-[320px] max-h-[900px] pb-0 mb-0 lg:max-w-[482px] lg:max-h-[900px] mx-aut
 
         '>
           <img src={image} alt='' />
