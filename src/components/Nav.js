@@ -15,7 +15,7 @@ const Nav = () => {
   
   {/* nav inner */}
 
-   <div className='w-full bg-black/20 h-[96px] backdrop-blur-2xl rounded-full max-w-[460px] mx-auto 
+   <div className='w-full bg-black/20 h-[60px] backdrop-blur-2xl rounded-full max-w-[460px] mx-auto 
     px-5  flex  justify-between items-center text-2xl text-white/50 '>
 
     <Link to="home" 
