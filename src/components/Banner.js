@@ -34,11 +34,11 @@ const Banner = () => {
 
           <motion.h1
             variants={fadeIn('up', 0.3)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }}
-            className='text-[55px]  font-bold  leading-[0.8]  lag:text-[110px]'>Abdurrahman Raaz</motion.h1>
+            className='text-[35px]  font-bold  leading-[0.8]  lag:text-[110px]'>Abdurrahman Raaz</motion.h1>
 
           <motion.div 
             variants={fadeIn('up', 0.4)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }}
-          className='mb-6  text-[36px] lg:text-[60px] font-secondary  font-semibold uppercase leading-[1] '>
+          className='mb-6  text-[35px] lg:text-[60px] font-secondary  font-semibold uppercase leading-[1] '>
             <span className='mr-4 text-white'>iam a</span>
             <TypeAnimation sequence={[
 

@@ -32,9 +32,9 @@ import img9 from '../images/project9.jpg';
 const Work = () => {
    return <div className='section' id='work' >
 
-      <div className='container mx-auto text-white'>
+      <div className='container mx-auto '>
 
-         <div className=' flex flex-col lg:flex-row gap-x-10  text-white '>
+         <div className=' flex flex-col lg:flex-row gap-x-10  '>
 
             <div
                variants={fadeIn('right', 0.3)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }}
@@ -44,7 +44,7 @@ const Work = () => {
 
                   <h2 className='h2 text-accent  leading-tight'>My Latest <br /> Work</h2>
 
-                  <p className='max-w-sm  mb-16'>The purpose of lorem ipsum is to create a natural looking block of text sentence, paragraph, page, etc.that doesn ",
+                  <p className='max-w-sm  mb-16 text-red-600 lg:text-green-400'>The purpose of lorem ipsum is to create a natural looking block of text sentence, paragraph, page, etc.that doesn ",
                      link:'learn more</p>
 
                   <button className='btn btn-sm '>View all project</button>

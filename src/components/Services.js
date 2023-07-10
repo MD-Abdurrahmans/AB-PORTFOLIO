@@ -60,7 +60,7 @@ const Services = () => {
     <div className='container mx-auto '>
 
 
-      <div className='flex flex-col lg:flex-row'>
+      <div className=' flex flex-col lg:flex-row gap-x-10  text-white '>
 
         {/* text  & image*/}
         <motion.div
@@ -68,8 +68,8 @@ const Services = () => {
 
           className='flex-1    lg:bg-services lg:bg-bottom bg-no-repeat  mix-blend-lighten mb-12 lg:mb-0' >
 
-          <h2 className='h2 text-accent mb-6'>What i Do</h2>
-          <h3 className='h3 max-w-[455px] mb-16'>Iam a Freelencer with over 5 year Experience</h3>
+          <h2 className='h2 text-purple-700 lg:text-accent mb-6'>What i Do</h2>
+          <h3 className='h3 max-w-[455px] mb-16 text-white'>Iam a Freelencer with over 5 year Experience</h3>
 
 
           <button className='btn  btn-sm'>See My Word</button>
@@ -91,9 +91,9 @@ const Services = () => {
               const { name, discription, link } = service;
               return <div className='border-b border-white/20 h-[146px] mb-[38px]' key={index}>
 
-                <div className='max-w-[476px] '>
-                  <h4 className='text-[20px] tracking-wider font-semibold mb-6 font-primary'>{name}</h4>
-                  <p className='font-secondary leading-tight '>{discription}</p>
+                <div className='max-w-[476px]  text-white'>
+                  <h4 className='text-white text-[20px] tracking-wider font-semibold mb-6 font-primary'>{name}</h4>
+                  <p className='text-white font-secondary leading-tight '>{discription}</p>
                 </div>
 
                 <div className='flex flex-col flex-1 items-end'>
