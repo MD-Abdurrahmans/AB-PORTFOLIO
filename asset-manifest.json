@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AB-PORTFOLIO/static/css/main.f18fc5c2.css",
-    "main.js": "/AB-PORTFOLIO/static/js/main.6d1f074f.js",
+    "main.js": "/AB-PORTFOLIO/static/js/main.a56b401b.js",
     "static/media/site-bg.jpg": "/AB-PORTFOLIO/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/project9.jpg": "/AB-PORTFOLIO/static/media/project9.aebc8d8576326a0c47ab.jpg",
     "static/media/pp.png": "/AB-PORTFOLIO/static/media/pp.e327a46662cbb1914b74.png",
@@ -18,13 +18,12 @@
     "static/media/project8.jpg": "/AB-PORTFOLIO/static/media/project8.478835168353be52aa66.jpg",
     "static/media/project3-header.jpg": "/AB-PORTFOLIO/static/media/project3-header.b16aa2865d2d205ac3af.jpg",
     "static/media/Group 12.png": "/AB-PORTFOLIO/static/media/Group 12.1c52f7f8ec970bc5f38f.png",
-    "static/media/logo.svg": "/AB-PORTFOLIO/static/media/logo.db69ab3d72628dc90d79e6a2d59e174b.svg",
     "index.html": "/AB-PORTFOLIO/index.html",
     "main.f18fc5c2.css.map": "/AB-PORTFOLIO/static/css/main.f18fc5c2.css.map",
-    "main.6d1f074f.js.map": "/AB-PORTFOLIO/static/js/main.6d1f074f.js.map"
+    "main.a56b401b.js.map": "/AB-PORTFOLIO/static/js/main.a56b401b.js.map"
   },
   "entrypoints": [
     "static/css/main.f18fc5c2.css",
-    "static/js/main.6d1f074f.js"
+    "static/js/main.a56b401b.js"
   ]
 }
