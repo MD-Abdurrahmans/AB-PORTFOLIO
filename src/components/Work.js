@@ -42,16 +42,17 @@ const Work = () => {
                {/* text */}
                <div>
 
-                  <h2 className='h2 text-accent  leading-tight'>My Latest <br /> Work</h2>
+                  <h2 className='h2  text-white lg:text-accent  leading-tight'>My Latest <br /> Work</h2>
 
-                  <p className='max-w-sm  mb-16 text-red-600 lg:text-green-400'>The purpose of lorem ipsum is to create a natural looking block of text sentence, paragraph, page, etc.that doesn ",
+                  <p className='max-w-sm  mb-16 text-white'>The purpose of lorem ipsum is to
+                   create a natural looking block of text sentence, paragraph, page, etc.that doesn ",
                      link:'learn more</p>
 
                   <button className='btn btn-sm '>View all project</button>
                </div>
 
                {/* img 1 */}
-               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+               <div className='group relative mb-5 overflow-hidden border-2 border-white/50 rounded-xl'>
 
                   {/* overlay */}
                   <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>

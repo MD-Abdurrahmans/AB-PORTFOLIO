@@ -34,7 +34,7 @@ const Banner = () => {
 
           <motion.h1
             variants={fadeIn('up', 0.3)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }}
-            className=' sm:text-[35px]  font-bold  leading-[0.8]  lg:text-[60px]'>Abdurrahman Raaz</motion.h1>
+            className=' text-[55px]  font-bold  leading-[0.8]  lg:text-[110npx]'>Abdurrahman Raaz</motion.h1>
 
           <motion.div 
             variants={fadeIn('up', 0.4)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }}
@@ -58,7 +58,7 @@ const Banner = () => {
 
           <motion.div  
            variants={fadeIn('up', 0.6)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }}
-           className='flex items-center  mt-5 max-w-max gap-x-6 '>
+           className='flex items-center gap-2  mt-5 max-w-max gap-x-6 '>
           
             <a  className='' href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'>
             
@@ -77,7 +77,7 @@ const Banner = () => {
           {/* socials */}
           <motion.div
             variants={fadeIn('up', 0.7)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }}
-          className='flex text-[20px] gap-x-6 max-w-max mx-auto lg:max-0'>
+          className='flex text-[20px  mt-10 gap-x-6 max-w-max mx-auto lg:max-0'>
             <Link to=''>
               <FaYoutube />
 

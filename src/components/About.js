@@ -28,7 +28,8 @@ const About = () => {
 
         {/* image */}
         <motion.div
-          variants={fadeIn('right', 0.5)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }} className='flex-1 bg-about bg-contain bg-no-repeat h-[640px] mix-blend-lighten bg-top' ></motion.div>
+          variants={fadeIn('right', 0.5)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }} 
+          className='flex-1 bg-about bg-contain bg-no-repeat h-[640px] mix-blend-lighten bg-top' ></motion.div>
         {/* text */}
         <div className='flex-1'>
           <h2 className='h2 text-accent'>About me.</h2>
@@ -36,7 +37,8 @@ const About = () => {
           <p className='mb-6'> lorem20 Check that Firefox has permission to access the web Check that Firefox has permission to access the web</p>
           {/* states */}
 
-          <div className=' flex lg:flex-row flex-col gap-10 lg:gap-x-6 lg:gap-x-10  mb-12'>
+        <div className=' flex lg:flex-row flex-col gap-5 lg:gap-x-6 lg:gap-x-10  mb-12'>
+          
             {/* item-1 */}
             <div>
 
@@ -100,7 +102,7 @@ const About = () => {
           </div>
 
 
-          <div className='flex gap-x-8 items-center'>
+          <div className='flex gap-3 gap-x-8 items-center'>
             <a className='' href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'>
 
               <button className='btn btn-lg'>Contact Me</button></a>
