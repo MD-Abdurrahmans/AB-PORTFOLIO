@@ -2,7 +2,7 @@ import React from 'react';
 
 // import logo
  
-import logo from'../assets/logo.svg';
+import logo from'../assets/ab.png';
 import { Link } from 'react-scroll';
 
 const Header = () => {
