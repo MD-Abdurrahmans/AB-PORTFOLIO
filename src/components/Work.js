@@ -30,11 +30,11 @@ import img9 from '../images/project9.jpg';
 // import img4 from '../images/half-image/project2-header.jpg';
 
 const Work = () => {
-   return <div className='section' id='work'>
+   return <div className='section' id='work' >
 
-      <div className='container mx-auto'>
+      <div className='container mx-auto text-white'>
 
-         <div className=' flex flex-col lg:flex-row gap-x-10  '>
+         <div className=' flex flex-col lg:flex-row gap-x-10  text-white '>
 
             <div
                variants={fadeIn('right', 0.3)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }}
