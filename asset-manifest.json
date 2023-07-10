@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AB-PORTFOLIO/static/css/main.6a3b8674.css",
-    "main.js": "/AB-PORTFOLIO/static/js/main.727dc3b0.js",
+    "main.css": "/AB-PORTFOLIO/static/css/main.1a11f02a.css",
+    "main.js": "/AB-PORTFOLIO/static/js/main.a682a610.js",
     "static/media/site-bg.jpg": "/AB-PORTFOLIO/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/pp.png": "/AB-PORTFOLIO/static/media/pp.37d4800f1f69b65fc59a.png",
     "static/media/project9.jpg": "/AB-PORTFOLIO/static/media/project9.aebc8d8576326a0c47ab.jpg",
@@ -18,11 +18,11 @@
     "static/media/project8.jpg": "/AB-PORTFOLIO/static/media/project8.478835168353be52aa66.jpg",
     "static/media/project3-header.jpg": "/AB-PORTFOLIO/static/media/project3-header.b16aa2865d2d205ac3af.jpg",
     "index.html": "/AB-PORTFOLIO/index.html",
-    "main.6a3b8674.css.map": "/AB-PORTFOLIO/static/css/main.6a3b8674.css.map",
-    "main.727dc3b0.js.map": "/AB-PORTFOLIO/static/js/main.727dc3b0.js.map"
+    "main.1a11f02a.css.map": "/AB-PORTFOLIO/static/css/main.1a11f02a.css.map",
+    "main.a682a610.js.map": "/AB-PORTFOLIO/static/js/main.a682a610.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a3b8674.css",
-    "static/js/main.727dc3b0.js"
+    "static/css/main.1a11f02a.css",
+    "static/js/main.a682a610.js"
   ]
 }
