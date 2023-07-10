@@ -37,10 +37,10 @@ const About = () => {
           <p className='mb-6'> lorem20 Check that Firefox has permission to access the web Check that Firefox has permission to access the web</p>
           {/* states */}
 
-        <div className=' flex lg:flex-row flex-col gap-5 lg:gap-x-6 lg:gap-x-10  mb-12'>
+        <div className=' flex lg:flex-row flex-col gap-y-5 lg:gap-x-6 lg:gap-x-10  mb-12'>
           
             {/* item-1 */}
-            <div>
+            <div className='mb-3 lg:mb-0'>
 
               <div className='text-[40px]  font-tertiary text-gradient mb-2'>
                 {inView ? <CountUp start={0} end={13} duration={3} /> :
@@ -59,7 +59,7 @@ const About = () => {
             </div>
 
             {/* item-2 */}
-            <div>
+            <div className='mb-3 lg:mb-0'>
 
               <div className='text-[40px]  font-tertiary text-gradient mb-2'>
                 {inView ? <CountUp start={0} end={15} duration={3} /> :
@@ -80,7 +80,7 @@ const About = () => {
 
 
             {/* item-3 */}
-            <div>
+            <div className='mb-3 lg:mb-0'>
 
               <div className='text-[40px]   font-tertiary  text-gradient mb-2'>
                 {inView ? <CountUp start={0} end={12} duration={3} /> :
@@ -102,10 +102,10 @@ const About = () => {
           </div>
 
 
-          <div className='flex gap-3 gap-x-8 items-center'>
+          <div className='flex gap-y-3 gap-x-8 items-center'>
             <a className='' href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'>
 
-              <button className='btn btn-lg'>Contact Me</button></a>
+              <button className='btn btn-lg mx-2'>Contact Me</button></a>
             <a className='text-gradient btn-link sm:text-white' href='https://www.linkedin.com/in/md-raj-95351223b/'>
 
               My Linkedin Profile

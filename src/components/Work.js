@@ -48,7 +48,7 @@ const Work = () => {
                    create a natural looking block of text sentence, paragraph, page, etc.that doesn ",
                      link:'learn more</p>
 
-                  <button className='btn btn-sm '>View all project</button>
+                  <button className='btn btn-sm mb-10 '>View all project</button>
                </div>
 
                {/* img 1 */}
