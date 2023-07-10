@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AB-PORTFOLIO/static/css/main.f625b895.css",
-    "main.js": "/AB-PORTFOLIO/static/js/main.4e4b6313.js",
+    "main.css": "/AB-PORTFOLIO/static/css/main.2e2b646e.css",
+    "main.js": "/AB-PORTFOLIO/static/js/main.f8daeab6.js",
     "static/media/site-bg.jpg": "/AB-PORTFOLIO/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/pp.png": "/AB-PORTFOLIO/static/media/pp.37d4800f1f69b65fc59a.png",
     "static/media/project9.jpg": "/AB-PORTFOLIO/static/media/project9.aebc8d8576326a0c47ab.jpg",
-    "static/media/pp.png": "/AB-PORTFOLIO/static/media/pp.e327a46662cbb1914b74.png",
     "static/media/project5.jpg": "/AB-PORTFOLIO/static/media/project5.4328bb0c2281e6a13190.jpg",
     "static/media/project7.jpg": "/AB-PORTFOLIO/static/media/project7.0e78092eeb4c0ce6948e.jpg",
     "static/media/services.png": "/AB-PORTFOLIO/static/media/services.9a3ba38e56cbaf4840c6.png",
@@ -17,13 +17,12 @@
     "static/media/project2-header.jpg": "/AB-PORTFOLIO/static/media/project2-header.0e23e5608e21a185dd25.jpg",
     "static/media/project8.jpg": "/AB-PORTFOLIO/static/media/project8.478835168353be52aa66.jpg",
     "static/media/project3-header.jpg": "/AB-PORTFOLIO/static/media/project3-header.b16aa2865d2d205ac3af.jpg",
-    "static/media/Group 12.png": "/AB-PORTFOLIO/static/media/Group 12.1c52f7f8ec970bc5f38f.png",
     "index.html": "/AB-PORTFOLIO/index.html",
-    "main.f625b895.css.map": "/AB-PORTFOLIO/static/css/main.f625b895.css.map",
-    "main.4e4b6313.js.map": "/AB-PORTFOLIO/static/js/main.4e4b6313.js.map"
+    "main.2e2b646e.css.map": "/AB-PORTFOLIO/static/css/main.2e2b646e.css.map",
+    "main.f8daeab6.js.map": "/AB-PORTFOLIO/static/js/main.f8daeab6.js.map"
   },
   "entrypoints": [
-    "static/css/main.f625b895.css",
-    "static/js/main.4e4b6313.js"
+    "static/css/main.2e2b646e.css",
+    "static/js/main.f8daeab6.js"
   ]
 }
