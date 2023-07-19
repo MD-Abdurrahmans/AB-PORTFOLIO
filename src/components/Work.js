@@ -11,9 +11,6 @@ import { fadeIn } from '../variants';
 
 // import img
 
-import img10 from '../images/project10.jpg';
-import img11 from '../images/project001.jpg';
-// import img3 from '../assets/portfolio-img3.png';
 
 // import from my file
 import img1 from '../images/projet1-header.jpg';
@@ -25,6 +22,17 @@ import img6 from '../images/project6.jpg';
 import img7 from '../images/project7.jpg';
 import img8 from '../images/project8.jpg';
 import img9 from '../images/project9.jpg';
+import img10 from '../images/project10.jpg';
+import img11 from '../images/project001.jpg';
+import img12 from '../images/add1.jpg';
+import img13 from '../images/add2.jpg';
+import img14 from '../images/add3.jpg';
+import img15 from '../images/add4.jpg';
+import img16 from '../images/add5.jpg';
+import img17 from '../images/add6.jpg';
+import img18 from '../images/add7.jpg';
+import img19 from '../images/add8.jpg';
+import img20 from '../images/add9.jpg';
 
 
 // import img4 from '../images/half-image/project2-header.jpg';
@@ -45,7 +53,7 @@ const Work = () => {
                   <h2 className='h2  text-white lg:text-accent  leading-tight'>My Latest <br /> Work</h2>
 
                   <p className='max-w-sm  mb-16 text-white'>The purpose of lorem ipsum is to
-                   create a natural looking block of text sentence, paragraph, page, etc.that doesn ",
+                     create a natural looking block of text sentence, paragraph, page, etc.that doesn ",
                      link:'learn more</p>
 
                   <button className='btn btn-sm mb-10 '>View all project</button>
@@ -143,7 +151,7 @@ const Work = () => {
                   <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
 
                      <span className='text-gradient'>
-                       <a href='https://artorito22.github.io/portfolio7/'>MOUNTAIN HUNTER</a>
+                        <a href='https://artorito22.github.io/portfolio7/'>MOUNTAIN HUNTER</a>
                      </span>
                   </div>
                   {/* title */}
@@ -151,6 +159,94 @@ const Work = () => {
                      <span className='text-3xl text-white'>BLOG WEBSITE</span>
                   </div>
                </div>
+
+
+               {/* IMG 12*/}
+
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img12} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='//artorito22.github.io/practice-project6/'>CREATIVE PHOTO SHOTER</a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>Camera man can store photo</span>
+                  </div>
+               </div>
+
+
+               {/* IMG 13*/}
+
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img13} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='//artorito22.github.io/challenge3/'>HOMEPAGE DESIGN</a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>one pages responsive Homepage </span>
+                  </div>
+               </div>
+
+               {/* IMG 14*/}
+
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img14} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/practice-project5/'>ARCHITECTS</a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>Brand New Architects Group</span>
+                  </div>
+               </div>
+
+
+               {/* IMG 15*/}
+
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img15} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/challenge2/'>TEAM PAGE</a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>Our team member page design</span>
+                  </div>
+               </div>
+
 
             </div>
 
@@ -195,7 +291,7 @@ const Work = () => {
                   <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
 
                      <span className='text-gradient'>
-                       <a href='https://artorito22.github.io/doctor-template/'>HOSPITAL HBC</a>
+                        <a href='https://artorito22.github.io/doctor-template/'>HOSPITAL HBC</a>
                      </span>
                   </div>
                   {/* title */}
@@ -216,7 +312,7 @@ const Work = () => {
                   <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
 
                      <span className='text-gradient'>
-                       <a href='https://artorito22.github.io/personal-portfolio/'>PERSONAL WEB</a>
+                        <a href='https://artorito22.github.io/personal-portfolio/'>PERSONAL WEB</a>
                      </span>
                   </div>
                   {/* title */}
@@ -237,8 +333,8 @@ const Work = () => {
                   <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
 
                      <span className='text-gradient'>
-                      <a href='https://artorito22.github.io/web-portfolio/?fbclid=IwAR2sPG5uzEQybT-YHOxOaqi--okaXPf3EznlXha0GyxnceIWSpnyPBu_eB8'>  PORTFOLIO </a>
-                   </span>
+                        <a href='https://artorito22.github.io/web-portfolio/?fbclid=IwAR2sPG5uzEQybT-YHOxOaqi--okaXPf3EznlXha0GyxnceIWSpnyPBu_eB8'>  PORTFOLIO </a>
+                     </span>
                   </div>
                   {/* title */}
                   <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
@@ -258,7 +354,7 @@ const Work = () => {
                   <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
 
                      <span className='text-gradient'>
-                       <a href='https://artorito22.github.io/practice-project2/'>HARDY FOLIO</a>
+                        <a href='https://artorito22.github.io/practice-project2/'>HARDY FOLIO</a>
                      </span>
                   </div>
                   {/* title */}
@@ -278,9 +374,9 @@ const Work = () => {
                   <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
 
                      <span className='text-gradient'>
-                       <a href='https://artorito22.github.io/first-website/'>
-                        Ecommerce Website/ONLY
-                       </a>
+                        <a href='https://artorito22.github.io/first-website/'>
+                           Ecommerce Website/ONLY
+                        </a>
                      </span>
                   </div>
                   {/* title */}
@@ -288,6 +384,122 @@ const Work = () => {
                      <span className='text-3xl text-white'>SHOPIFY/WITHOUT RESPONSIVE!</span>
                   </div>
                </div>
+
+
+               {/* IMG 16*/}
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img16} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='//artorito22.github.io/challenge1/'>
+                           404 NOT FOUND!
+                        </a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>NOT FOUND PAGE DESIGN LIVE WEBSITE</span>
+                  </div>
+               </div>
+
+
+               {/* IMG 17*/}
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img17} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='//artorito22.github.io/facebook-login/'>
+                           FACEBOOK LOGIN
+                        </a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>LOGIN PAGE DESIGN LIVE WEBSITE</span>
+                  </div>
+               </div>
+
+               {/* IMG 18*/}
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img18} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='//artorito22.github.io/practice-project4/'>
+                           DIGITAL AGENCY
+                        </a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>construction group toper</span>
+                  </div>
+               </div>
+
+
+
+               {/* IMG 19*/}
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img19} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/assignment1'>
+                           FLOWER SHOP
+                        </a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>Your choice is your life line choice</span>
+                  </div>
+               </div>
+
+
+               {/* IMG 20*/}
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img20} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/assignment2/'>
+                          GAMER WAY
+                        </a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>No Way to eye down just enjoy</span>
+                  </div>
+               </div>
+
 
             </div>
          </div>
