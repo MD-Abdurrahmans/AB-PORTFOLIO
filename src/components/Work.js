@@ -33,6 +33,15 @@ import img17 from '../images/add6.jpg';
 import img18 from '../images/add7.jpg';
 import img19 from '../images/add8.jpg';
 import img20 from '../images/add9.jpg';
+import img21 from '../images/design1.jpg';
+import img22 from '../images/design2.jpg';
+import img23 from '../images/design3.jpg';
+import img24 from '../images/design4.jpg';
+import img25 from '../images/design5.jpg';
+import img26 from '../images/design6.jpg';
+import img27 from '../images/design7.jpg';
+import img28 from '../images/design8.jpg';
+import img29 from '../images/design9.jpg';
 
 
 // import img4 from '../images/half-image/project2-header.jpg';
@@ -244,6 +253,95 @@ const Work = () => {
                   {/* title */}
                   <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
                      <span className='text-3xl text-white'>Our team member page design</span>
+                  </div>
+               </div>
+
+
+
+               {/* IMG 21*/}
+
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img21} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/challenge4/'>single blog PAGE</a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>Our creative single cheseChake page</span>
+                  </div>
+               </div>
+
+
+               {/* IMG 22*/}
+
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img22} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/challenge5/'>Social Profile PAGE</a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>We are crated Social page</span>
+                  </div>
+               </div>
+
+
+               {/* IMG 23*/}
+
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img23} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/tproject1/'>Penguin Fashion </a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>Mobile friendly responsive web</span>
+                  </div>
+               </div>
+
+
+               {/* IMG 24*/}
+
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img24} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/tproject2/#slide4'>Biker Zone </a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>All bike category web fully responsive</span>
                   </div>
                </div>
 
@@ -499,6 +597,126 @@ const Work = () => {
                      <span className='text-3xl text-white'>No Way to eye down just enjoy</span>
                   </div>
                </div>
+
+
+
+               {/* IMG 25*/}
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img25} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/tproject3/'>
+                         Sunshine
+                        </a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>Some Nature Web responsive for all device</span>
+                  </div>
+               </div>
+
+
+               {/* IMG 26*/}
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img26} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/tchallenge1/'>
+                         Single Portfolio page
+                        </a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>responsive single page</span>
+                  </div>
+               </div>
+
+
+               {/* IMG 27*/}
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img27} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/tchallenge2/'>
+                         Eide Architect Web
+                        </a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>responsive single architect page</span>
+                  </div>
+               </div>
+
+               {/* IMG 28*/}
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img28} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/tproject4/'>
+                        Tea House
+                        </a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>responsive Friendly Tea house web</span>
+                  </div>
+               </div>
+
+
+               {/* IMG 29*/}
+               <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
+
+                  {/* overlay */}
+                  <div className='group-hover:bg-black/70 w-full h-full absolute  z-40 transition-all duration-300'></div>
+                  {/* img */}
+                  <img className='group-hover:scale-125 transition-all duration-500' src={img29} alt='' />
+                  {/* pretitle */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
+
+                     <span className='text-gradient'>
+                        <a href='https://artorito22.github.io/tproject5/#slide3'>
+                      JUSTICE LEAGUE 
+                        </a>
+                     </span>
+                  </div>
+                  {/* title */}
+                  <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
+                     <span className='text-3xl text-white'>responsive Friendly JUSTICE web</span>
+                  </div>
+               </div>
+
+
+
+
+
 
 
             </div>
