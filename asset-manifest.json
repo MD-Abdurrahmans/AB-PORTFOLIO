@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/AB-PORTFOLIO/static/css/main.46b49f15.css",
-    "main.js": "/AB-PORTFOLIO/static/js/main.cc59d0aa.js",
+    "main.js": "/AB-PORTFOLIO/static/js/main.c05a5438.js",
     "static/media/site-bg.jpg": "/AB-PORTFOLIO/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/pp.png": "/AB-PORTFOLIO/static/media/pp.37d4800f1f69b65fc59a.png",
     "static/media/project9.jpg": "/AB-PORTFOLIO/static/media/project9.aebc8d8576326a0c47ab.jpg",
     "static/media/project5.jpg": "/AB-PORTFOLIO/static/media/project5.4328bb0c2281e6a13190.jpg",
+    "static/media/design7.jpg": "/AB-PORTFOLIO/static/media/design7.56c3557c16d891a87639.jpg",
     "static/media/project7.jpg": "/AB-PORTFOLIO/static/media/project7.0e78092eeb4c0ce6948e.jpg",
+    "static/media/design9.jpg": "/AB-PORTFOLIO/static/media/design9.63f532102b7a34265311.jpg",
     "static/media/services.png": "/AB-PORTFOLIO/static/media/services.9a3ba38e56cbaf4840c6.png",
     "static/media/add9.jpg": "/AB-PORTFOLIO/static/media/add9.4973d63a371bac1b46d1.jpg",
     "static/media/add7.jpg": "/AB-PORTFOLIO/static/media/add7.5543dab2c2f52572be28.jpg",
@@ -20,18 +22,25 @@
     "static/media/project10.jpg": "/AB-PORTFOLIO/static/media/project10.c97abc9f2511d9364f71.jpg",
     "static/media/project001.jpg": "/AB-PORTFOLIO/static/media/project001.3f917f72d8c9fee41d7f.jpg",
     "static/media/project2-header.jpg": "/AB-PORTFOLIO/static/media/project2-header.0e23e5608e21a185dd25.jpg",
+    "static/media/design1.jpg": "/AB-PORTFOLIO/static/media/design1.ef12b5c6b70eabb3d00c.jpg",
+    "static/media/design6.jpg": "/AB-PORTFOLIO/static/media/design6.3a4c5e54a5753f5a477e.jpg",
+    "static/media/design8.jpg": "/AB-PORTFOLIO/static/media/design8.a09ca2ae561a871d654e.jpg",
     "static/media/add8.jpg": "/AB-PORTFOLIO/static/media/add8.9ebc945d405303b9fb1f.jpg",
     "static/media/add1.jpg": "/AB-PORTFOLIO/static/media/add1.11fd6ac20117c5c42ad3.jpg",
+    "static/media/design3.jpg": "/AB-PORTFOLIO/static/media/design3.1a60c3448c28ca979af6.jpg",
     "static/media/project8.jpg": "/AB-PORTFOLIO/static/media/project8.478835168353be52aa66.jpg",
     "static/media/project3-header.jpg": "/AB-PORTFOLIO/static/media/project3-header.b16aa2865d2d205ac3af.jpg",
+    "static/media/design2.jpg": "/AB-PORTFOLIO/static/media/design2.5a7f569652c856978057.jpg",
+    "static/media/design4.jpg": "/AB-PORTFOLIO/static/media/design4.5912e8c4990f139df7fd.jpg",
     "static/media/add5.jpg": "/AB-PORTFOLIO/static/media/add5.7dbcf6ef0b68bd3e3fed.jpg",
+    "static/media/design5.jpg": "/AB-PORTFOLIO/static/media/design5.eabe8693d1cfd33aa549.jpg",
     "static/media/add6.jpg": "/AB-PORTFOLIO/static/media/add6.37b69037288506ae15e8.jpg",
     "index.html": "/AB-PORTFOLIO/index.html",
     "main.46b49f15.css.map": "/AB-PORTFOLIO/static/css/main.46b49f15.css.map",
-    "main.cc59d0aa.js.map": "/AB-PORTFOLIO/static/js/main.cc59d0aa.js.map"
+    "main.c05a5438.js.map": "/AB-PORTFOLIO/static/js/main.c05a5438.js.map"
   },
   "entrypoints": [
     "static/css/main.46b49f15.css",
-    "static/js/main.cc59d0aa.js"
+    "static/js/main.c05a5438.js"
   ]
 }
